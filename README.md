@@ -6,8 +6,8 @@ Sou designer freelancer e estou migrando pra area de front-end.
 
 <div>
   <a href="https://github.com/william-sant">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=william-sant&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=william-sant&layout=compact&langs_count=16&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=william-sant&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=william-sant&layout=compact&langs_count=16&theme=dark"/>
 <div>
   
 ##
