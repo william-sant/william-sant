@@ -1,8 +1,12 @@
 ## William Santana
 
- Ei eai! meu nome é William Santana, 26 anos, atualmente moro em Salvador
+ Ei eai! Meu nome é William Santana, tenho 26 anos e atualmente moro em Salvador
 
-Sou designer freelancer e estou migrando pra area de front-end.
+Sou designer freelancer e estou migrando pra area de front-end. <br>
+no momento estou fazendo o curso
+**FrontStart** da **Isadora Stangarlin - @papodedev** <br>
+e estou no modulo 2 do curso **HTML5** e **CSS3** do **Curso em video**
+
 
 <div>
   <a href="https://github.com/william-sant">
