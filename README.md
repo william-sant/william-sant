@@ -5,7 +5,7 @@
 Sou designer freelancer e estou migrando pra area de front-end. <br>
 no momento estou fazendo o curso
 **FrontStart** da **Isadora Stangarlin - @papodedev** <br>
-e estou no modulo 3 do curso **HTML5** e **CSS3** do **Curso em video**
+e também o curso de **Desenvolvimento Web Completo** - <br> HTML5, CSS3, SASS, Bootstrap, JS, ES6, PHP 7, OO, MySQL, JQuery, MVC, APIs, IONIC e mais
 
 
 <div>
